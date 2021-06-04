@@ -33,6 +33,8 @@ Phone. **010-4922-4859**
 
 > 각 프로젝트는 클릭하여 이동이 가능합니다.
 
+<img src="https://user-images.githubusercontent.com/59601439/120795204-24d8d380-c574-11eb-9f48-169dbdf53ed2.png" width=100>
+
 [벌컥벌컥 ➚](https://www.notion.so/8da0c673f48a42889e791e35224c0eed)
 2021.03 ~ 2021.04
 개인 프로젝트
@@ -52,7 +54,11 @@ Phone. **010-4922-4859**
 
 Link
 
-- [AppStore](https://apps.apple.com/kr/app/%EB%B2%8C%EC%BB%A5%EB%B2%8C%EC%BB%A5/id1563673158) / [**Github**](https://github.com/feelsodev/DrinkSomeWater)
+- [**AppStore**](https://apps.apple.com/kr/app/%EB%B2%8C%EC%BB%A5%EB%B2%8C%EC%BB%A5/id1563673158) / [**Github**](https://github.com/feelsodev/DrinkSomeWater)  
+  
+--- 
+
+<img src="https://user-images.githubusercontent.com/59601439/120795194-230f1000-c574-11eb-81a0-b302f4a19020.png" width=100>
 
 [터미널 ➚](https://www.notion.so/c30f673f095243f7a594c0b4459af00c)
 2020.08 ~ 2021.03
@@ -69,14 +75,13 @@ Link
 - Kingfisher 통한 이미지 바인딩
 - SwiftLint + Team Code Convention 규칙 확립
 - Slack, Notion, Postman 통한 각 파트별 협업
-- Github를 통한 코드 형상관리
 
 주요 라이브러리
 
 - Alamofire, Socket.IO, Then, NMapsMap, SwiftLint
 
 Link
-- [**AppStore**](https://apps.apple.com/app/id1557178596)** / [**Github**](https://github.com/iron-mental/americano)
+- [**AppStore**](https://apps.apple.com/app/id1557178596) / [**Github**](https://github.com/iron-mental/americano)
 
 ## 🏅 수상경력
 - 2018 교내 자바경진대회 금상
